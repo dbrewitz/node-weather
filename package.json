@@ -1,0 +1,22 @@
+{
+  "name": "simple-nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hello app\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbrewitz/weather-app"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0",
+    "yargs": "^8.0.2"
+  }
+}
